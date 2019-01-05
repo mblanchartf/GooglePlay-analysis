@@ -1,6 +1,7 @@
 # Google Play analysis
 
 This learning project pretends to analyze the Google Play dataset, that can be found here: https://www.kaggle.com/lava18/google-play-store-apps
+
 **Project done for "Tipologia i cicle de vide de les dades" course, part of the Data Science master perform in UOC.**
 
 ## Licence
